@@ -1,0 +1,5 @@
+Toyota Corolla ABC-001 1800 5000
+Honda Civic DEF-002 1800 6000
+Suzuki Alto GHI-003 1000 3000
+Suzuki Swift PQR-004 1300 4500
+Honda City IJK-005 2000 6500
